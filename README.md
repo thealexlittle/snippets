@@ -5,7 +5,7 @@ This repository contains code snippets from assignments I have worked on in CS c
 Within this repo is the code for various assignments I have worked on as a Student at Stanford. 
 
 ### C++ Code
-The prjects in this folder show well documented code that displays knowledge of various skills:
+The projects in this folder show well documented code that displays knowledge of various skills:
 * Recursion
 * Abstract Data Types
 

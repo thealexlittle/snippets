@@ -12,7 +12,7 @@ The projects in this folder show well documented code that displays knowledge of
 
 ### Java
 The projects in this folder show well documented code that displays knowledge of various skills in Java:
-* Properly creating and implementing classes
+* Properly creating and implementing class structures
 * Responsible Decomposition of code in order to write clean code. 
 
 ### Honor Code and Use
